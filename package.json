@@ -1,0 +1,35 @@
+{
+  "name": "react-native-global-styles",
+  "version": "1.0.0",
+  "description": "Pass global styles recursively as props to children",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairx97/react-native-global-styles.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "ios",
+    "android"
+  ],
+  "author": "https://github.com/umairx97",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umairx97/react-native-global-styles/issues"
+  },
+  "homepage": "https://github.com/umairx97/react-native-global-styles#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
