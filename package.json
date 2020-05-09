@@ -1,6 +1,6 @@
 {
   "name": "react-native-global-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pass global styles recursively as props to children",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/umairx97/react-native-global-styles#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
