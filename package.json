@@ -1,6 +1,6 @@
 {
   "name": "react-native-global-styles",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pass global styles recursively as props to children",
   "main": "index.js",
   "scripts": {

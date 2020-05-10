@@ -40,8 +40,10 @@ yarn add react-native-global-styles
 ## 💡 Usage <a name="usage"></a>
 
 ```
-Import React from 'react'
+import React from 'react'
 import GlobalStyles from 'react-native-global-styles'
+import Component1 from './Component1'
+import Component2 from './Component2'
 
 <GlobalStyles styles={ height: 100, width: 100 }>
     <Component1 />
